@@ -5,6 +5,7 @@
 #include <string.h>
 #include <algorithm>
 using namespace std;
+int h;
 int x;
 int y;
 int u;
