@@ -5,10 +5,6 @@
 #include <string.h>
 #include <algorithm>
 using namespace std;
-int h;
-int x;
-int y;
-int u;
 int ro(float f){
     if( (((int)(f*10))%10)<5)
     return (int)f;
