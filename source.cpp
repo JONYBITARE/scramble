@@ -7,6 +7,7 @@
 using namespace std;
 int x;
 int y;
+int u;
 int ro(float f){
     if( (((int)(f*10))%10)<5)
     return (int)f;
